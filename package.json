@@ -4,7 +4,7 @@
   "description": "My business card",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack serve --config ./src/client/webpack.dev.js",
+    "dev": "webpack serve --config ./src/client/webpack.dev.js"
   },
   "author": "Romanovski",
   "license": "ISC",
