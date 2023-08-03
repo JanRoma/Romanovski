@@ -1,2 +1,0 @@
-# Romanovski
-My business card
